@@ -48,5 +48,3 @@ http://application.local/r/{shortCode}
 This action will redirect you to the original URL associated with the provided short code.
 
 ---
-
-Thank you for using our application! If you have any questions or need further assistance, please feel free to reach out.
